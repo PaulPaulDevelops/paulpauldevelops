@@ -1,6 +1,6 @@
 ![Image of Pikachu Waving](https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111)
 
-Hi, I'm Paulina ✨ - Lead Software Engineer at OpenForge where I manage an awesome development team and work on some cool mobile applications. Occasionally I brew up CSS magic over on [Codepen](https://codepen.io/paulpauldevelops).
+Hi, I'm Paulina ✨ - Lead Software Engineer at OpenForge where I manage an awesome development team and work on some cool mobile applications.
 
 ---
 
